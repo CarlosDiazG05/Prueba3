@@ -1,0 +1,56 @@
+*{
+    border:0;
+    padding:0;
+    box-sizing: border-box;
+    
+  }
+ 
+ h1{
+     font-family: 'roboto';
+ }
+
+ label{
+	outline: none;
+	display: block;
+	padding: 1px;
+	border: none;
+    border-top: 1px solid #ddd;
+	margin-bottom: 10px;
+    font-family: 'IBM Plex Sans';
+    font-weight: bold;
+    height: 10px;
+    font-size: 10px;
+    color: #D0D0D0;
+ }
+ input{
+     font-weight: bold;
+     border-style: none;
+     border: none;
+     width: 100%;
+     outline: none;
+ }
+
+  h1{
+      text-align: center;
+  }
+
+  .contenedor1{
+      width:550px;
+      margin:0 auto;
+      background-color: white ;
+      border-color: white;
+      border-width: 5px;
+      border-style: solid;
+      border-radius: 13px;
+      padding-bottom: 19px;
+      box-shadow: 1px 1px 4px rgb(173, 173, 173);
+      
+  }
+
+  body{
+    background-color: #f1efef;
+  }
+
+  form{
+      margin: 20px;
+  }
